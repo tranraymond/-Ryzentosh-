@@ -6,3 +6,4 @@
 - Corsair Vengeance LPX 16 GB (2x8 GB)
 - XPG SX8220 Pro 1TB 3D NAND NVMe Gen3x4 PCIe
 - Cooler Master MWE 650 WHITE - V2 (650W)
+- FENVI T919
