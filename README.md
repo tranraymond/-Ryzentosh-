@@ -12,22 +12,22 @@
 ### What works:
 (Note: Most functions untested at the moment)
 
-[ ] AirDrop  
-[ ] Apple Music
-[ ] Apple TV+
-[ ] Apple Watch Unlock
-[ ] Facetime
-[x] FileVault2
-[ ] Handoff
-[ ] H.264
-[ ] HEVC
-[ ] Hibernate
-[x] iMessage
-[ ] Native NVRAM
-[ ] Netflix Safari
-[ ] NVMe boot
-[ ] Sidecar
-[ ] Sleep/Wake
-[x] UEFI Boot Entry
+- [ ] AirDrop  
+- [ ] Apple Music
+- [ ] Apple TV+
+- [ ] Apple Watch Unlock
+- [ ] Facetime
+- [x] FileVault2
+- [ ] Handoff
+- [ ] H.264
+- [ ] HEVC
+- [ ] Hibernate
+- [x] iMessage
+- [ ] Native NVRAM
+- [ ] Netflix Safari
+- [ ] NVMe boot
+- [ ] Sidecar
+- [ ] Sleep/Wake
+- [x] UEFI Boot Entry
 
 
