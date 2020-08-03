@@ -13,8 +13,8 @@
 (Note: Most functions untested at the moment)
 
 - [ ] AirDrop  
-- [ ] Apple Music
-- [ ] Apple TV+
+- [x] Apple Music
+- [x] Apple TV+
 - [ ] Apple Watch Unlock
 - [ ] Facetime
 - [x] FileVault2
